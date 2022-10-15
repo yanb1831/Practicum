@@ -4,8 +4,6 @@
     <thead>
         <tr bgcolor="#f1edf2">
             <th style="text-align:center">Название проекта</th>
-            <th style="text-align:center">Сферы деятельности</th>
-            <th style="text-align:center">Направление деятельности</th>
             <th style="text-align:center">Навыки и инструменты</th>
             <th style="text-align:center">Задачи проекта</th>
             <th style="text-align:center">Описание проекта</th>
@@ -16,14 +14,6 @@
             <td><p>
             <a href="https://github.com/yanb1831/Practicum/blob/2b5c507df3b723df7faa05f3243fbe69d9f4a11c/Prinyatie_resheniy_v_biznese.ipynb">1. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста</a>
             </p></td>
-            <td>
-                <p>
-                <b>Интернет-Магазины</b>
-                </p>
-            </td>
-             <td>
-                <p> Маркетинг-Аналитик </p>
-            </td>
             <td>
                 <p> Python, Pandas, Matplotlib, SciPy, A/B тестирование, проверка статистических гипотез </p>
             </td>
