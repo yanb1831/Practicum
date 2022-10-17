@@ -15,7 +15,7 @@
             <a href="https://github.com/yanb1831/Practicum/blob/2b5c507df3b723df7faa05f3243fbe69d9f4a11c/Prinyatie_resheniy_v_biznese.ipynb">1. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста</a>
             </p></td>
             <td>
-                <p> Python, Pandas, Matplotlib, SciPy, A/B тестирование, проверка статистических гипотез </p>
+                <p>A/B тестирование, проверка статистических гипотез, Python (pandas, numpy, matplotlib, seaborn) </p>
             </td>
             <td>
                 <p> Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами </p>
