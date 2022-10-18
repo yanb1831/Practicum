@@ -1,5 +1,4 @@
-<img src=" https://media.slid.es/uploads/1995563/images/8985424/yan.png"
-width="1000" height="300" border="0" />
+<img src=" https://media.slid.es/uploads/1995563/images/8985424/yan.png" width="1500" height="500" title="Hello world!" border="0" />
 
 <table border="1" width="100%">
     <thead>
