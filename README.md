@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/1200/0*uVP0WwEWOtpHs40E.png">
+<img src="https://a2is.ru/images/developers/4068/programs/images/4173/uzDDwP.jpg">
 
 <table border="1" width="100%">
     <thead>
