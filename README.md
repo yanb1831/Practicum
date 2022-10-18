@@ -1,5 +1,5 @@
 <img src="https://a2is.ru/images/developers/4068/programs/images/4173/uzDDwP.jpg">
-<p style="text-align:center;">В данном репозитории представлены выполненные проекты во время обучения в Яндекс.Практикум.</p>
+<div align="center"> <h4 align="center"> В данном репозитории представлены проекты выполненные во время обучения в Яндекс.Практикум. </div>
 <div align="center"> <h4 align="center"><a href="https://yadi.sk/d/JMVLpDClAJhd7g">Сертификат</a></h4> </div>
 <table border="1" width="100%">
     <thead>
