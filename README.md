@@ -1,6 +1,9 @@
 <img src="https://a2is.ru/images/developers/4068/programs/images/4173/uzDDwP.jpg">
-<p style="text-align:center">В данном репозитории представлены выполненные проекты во время обучения в Яндекс.Практикум.</p>
-<p style="text-align:center"><a href="https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FKLPrUQ3AJ0FYKZTiXAFpK8nNZQIJagl0bZSCvT84ieS8OriS%2B85EUGZCLrkbxYTvq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=Янбухтин%20Руслан_20222ЦПДА00901.pdf">Сертификат</a></p>
+<p style="text-align:center;">В данном репозитории представлены выполненные проекты во время обучения в Яндекс.Практикум.</p>
+<p style="text-align:center;"><a href="https://yadi.sk/d/JMVLpDClAJhd7g">Сертификат</a></p>
+
+<p style="text-align: center;">Centered text</p>
+
 <table border="1" width="100%">
     <thead>
         <tr bgcolor="#f1edf2">
