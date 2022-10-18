@@ -4,6 +4,7 @@
 
 <p style="text-align: center;">Centered text</p>
 
+<div align="center"> <h1 align="center"> Title inside div! </h1> </div>
 <table border="1" width="100%">
     <thead>
         <tr bgcolor="#f1edf2">
