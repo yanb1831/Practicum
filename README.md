@@ -1,5 +1,4 @@
 <div align="center"> <h4 align="center"> В данном репозитории представлены проекты выполненные во время обучения в Яндекс.Практикум. </div>
-<div align="center"> <h4 align="center"><a href="https://yadi.sk/d/JMVLpDClAJhd7g">Сертификат</a></h4> </div>
 <br/><br/>
 <table border="1" width="100%">
     <thead>
